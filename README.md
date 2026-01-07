@@ -78,11 +78,7 @@ This system maintains patient records, appointments, treatments, and billing ope
 
 ---
 
-## Database Schema
 
-![ERD Diagram](link-to-your-erd-image.png)
-
----
 
 ## Security & Access Control
 
