@@ -40,31 +40,31 @@ This system maintains patient records, appointments, treatments, and billing ope
 
 ---
 
-##Deliverables
+## Deliverables
 
-1. ✅ ERD & Schema Design (normalized)
-2. ✅ SQL Scripts for Table Creation & Sample Data
-3. ✅ CRUD Operations for patient registration and doctor assignment
-4. ✅ SQL Queries:
+1.  ERD & Schema Design (normalized)
+2.  SQL Scripts for Table Creation & Sample Data
+3.  CRUD Operations for patient registration and doctor assignment
+4.  SQL Queries:
    - Daily patient list per doctor
    - Revenue analysis by department (GROUP BY)
-5. ✅ Stored Procedure: Auto-generate billing totals
-6. ✅ Trigger: Audit trail for billing updates/deletes
-7. ✅ View: Monthly revenue summary
-8. ✅ Import/Export: CSV billing reports
-9. ✅ Backup/Restore simulation
-10. ✅ Security roles and access control demo
-11. ✅ Full documentation & presentation
+5.  Stored Procedure: Auto-generate billing totals
+6.  Trigger: Audit trail for billing updates/deletes
+7.  View: Monthly revenue summary
+8.  Import/Export: CSV billing reports
+9.  Backup/Restore simulation
+10.  Security roles and access control demo
+11.  Full documentation & presentation
 
 ---
 
-##Documentation
+## Documentation
 
 ** [View Full Documentation & SQL Scripts on Notion](https://www.notion.so/Hospital-Patient-Record-Billing-System-2e1716df3693803eb93dda84a4e57eae?source=copy_link)**
 
 ---
 
-##Getting Started
+## Getting Started
 
 ### Prerequisites
 - MySQL Server 8.0 or higher
@@ -78,13 +78,13 @@ This system maintains patient records, appointments, treatments, and billing ope
 
 ---
 
-##Database Schema
+## Database Schema
 
 ![ERD Diagram](link-to-your-erd-image.png)
 
 ---
 
-##Security & Access Control
+## Security & Access Control
 
 The system implements three security roles:
 - **Admin**: Full database access
@@ -93,12 +93,12 @@ The system implements three security roles:
 
 ---
 
-## 📧 Contact
+##  Contact
 
 For questions or collaboration, please reach out to any team member listed above.
 
 ---
 
-##License
+## License
 
 This project is part of an academic requirement.
