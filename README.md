@@ -10,7 +10,7 @@ A comprehensive database management system for healthcare facilities, handling p
 - **Baylon, Darrel Andrew**
 - **Belando, Sebastian Rafael**
 - **Bering, Char Mae Grade**
-- **Espinili, Ryel John**
+- **Espinili, Ryel Jan**
 - **Reyes, Rayver S.**
 
 ---
@@ -68,7 +68,7 @@ This system maintains patient records, appointments, treatments, and billing ope
 
 ### Prerequisites
 - MySQL Server 8.0 or higher
-- MySQL Workbench (recommended)
+- PhpMyAdmin
 
 ### Installation
 1. Clone this repository
