@@ -60,7 +60,7 @@ This system maintains patient records, appointments, treatments, and billing ope
 
 ## Documentation
 
-** [View Full Documentation & SQL Scripts on Notion](https://www.notion.so/Hospital-Patient-Record-Billing-System-2e1716df3693803eb93dda84a4e57eae?source=copy_link)**
+[View Full Documentation & SQL Scripts on Notion](https://www.notion.so/Hospital-Patient-Record-Billing-System-2e1716df3693803eb93dda84a4e57eae?source=copy_link)
 
 ---
 
@@ -72,12 +72,11 @@ This system maintains patient records, appointments, treatments, and billing ope
 
 ### Installation
 1. Clone this repository
-2. Open the SQL script in MySQL Workbench
+2. Open the SQL script in phpMyAdmin
 3. Execute the script to create the database structure
 4. Load sample data (included in script)
 
 ---
-
 
 
 ## Security & Access Control
